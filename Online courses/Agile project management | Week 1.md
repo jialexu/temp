@@ -82,6 +82,3 @@ Ambiguity: possibility of misunderstanding the conditions and root causes of eve
 
 More like using the mindset of VUCA to “embrace changes”, instead of ignoring the changes?
 
-# Popular Agile Frameworks
-
-# Review: the fundamentals of Agile
